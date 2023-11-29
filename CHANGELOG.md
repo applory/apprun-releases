@@ -1,5 +1,8 @@
 # Changelog
 
+- Version 1.5.0
+  - add more nodes and enhance node features
+
 - Version 1.4.0
   - simplify the sqlfile sql id format
   - update to support latest version of go modules
